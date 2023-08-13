@@ -18,4 +18,8 @@ useEffect(() => {
 useEffect(() => {
 	//hook only runs once on initial load
 },[])
+
 ````
+
+
+[[Developer/1. Front End/ReactJS/Hooks/Hooks|Hooks]]
